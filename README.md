@@ -1,4 +1,4 @@
-# neuralrag
+
 # NeuralRAG
 
 NeuralRAG is a RAG (Retrieval-Augmented Generation) based application that combines document upload, indexing, retrieval, and chat-based interaction.
