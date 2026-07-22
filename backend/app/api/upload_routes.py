@@ -3,7 +3,6 @@ from fastapi import (
     UploadFile,
     File
 )
-
 from pypdf import PdfReader
 
 import shutil
