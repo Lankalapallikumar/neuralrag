@@ -14,7 +14,6 @@ from app.models.user import (
 
 router = APIRouter()
 
-
 # RAZORPAY CLIENT
 client = razorpay.Client(
 
