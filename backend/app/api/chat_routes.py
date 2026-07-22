@@ -5,7 +5,6 @@ from sqlalchemy.orm import Session
 from app.database.database import (
     SessionLocal
 )
-
 from app.models.chat import Chat
 
 from app.models.message import Message
